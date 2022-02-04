@@ -4,7 +4,7 @@
 ### Leverage SSVEP to control car in real time
 
 # workflow
-![Procedure](./fig/Procedure.png)
+![workflow](./fig/workflow.jpg)
 
 # File description
 
@@ -18,9 +18,9 @@
         - *lower blinking indicators* : 14hz
     - **FrameRate** :  only for 60hz minitor
     - **execute the code** : use python enviroment to execute the code,and you can see the window like this one
-![flicker](./fig/flicker.png)
+![flicker](./fig/flicker.PNG)
     - **frame rate accuracy** : frame rate accuracy can calculate by the code, make sure the frame rate accuracy is in the interval of 1.01 and 0.99(0.99 < frame rate accuracy < 1.01), or you can't proceed the SSVEP BCI. If your frame rate accuracy is not correct, please reduce the workload of your computer(like close the other software)
-![flicker2](./fig/flicker2.png)
+![flicker2](./fig/flicker2.PNG)
 
 ## main_FBCCA.py
 - Conduct Filter Bank CCA
