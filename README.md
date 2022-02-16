@@ -31,17 +31,17 @@
 - Reference Github: https://github.com/mnakanishi/TRCA-SSVEP
 
 # Prerequisites
-1. Install anaconda
+1. Install ![anaconda](https://www.anaconda.com/products/individual)
 2. Open the anaconda prompt
-3. Create conda env: conda create --name myenv
-4. Activate your environment: conda activate myenv
-5. Run conda install pip
-6. Run conda install -c conda-forge pywinhook
+3. Create conda env: *conda create --name myenv*
+4. Activate your environment: *conda activate myenv*
+5. Run *conda install pip*
+6. Run *conda install -c conda-forge pywinhook*
 7. Download dukpy wheel from this page https://www.lfd.uci.edu/~gohlke/pythonlibs/#dukpy
 ![dukpy_wheel](./fig/dukpy.png)
-8. Run pip install \<the absolute path of dukpy.whl\>
+8. Run *pip install \<the absolute path of dukpy.whl\>*
 9. Download requirements.txt
-10. Run pip install -r requirements.txt
+10. Run *pip install -r requirements.txt*
 
 # Instruction for running the system
 
