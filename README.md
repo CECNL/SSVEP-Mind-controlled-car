@@ -38,7 +38,7 @@
 5. Run conda install pip
 6. Run conda install -c conda-forge pywinhook
 7. Download dukpy wheel from this page https://www.lfd.uci.edu/~gohlke/pythonlibs/#dukpy
-
+![dukpy_wheel](./fig/dukpy.PNG)
 8. Run pip install <the absolute path of dukpy.whl>
 9. Download requirements.txt
 10. Run pip install -r requirements.txt
