@@ -31,7 +31,7 @@
 - Reference Github: https://github.com/mnakanishi/TRCA-SSVEP
 
 # Prerequisites
-1. Install ![anaconda](https://www.anaconda.com/products/individual)
+1. Install [anaconda](https://www.anaconda.com/products/individual)
 2. Open the anaconda prompt
 3. Create conda env: *conda create --name myenv*
 4. Activate your environment: *conda activate myenv*
