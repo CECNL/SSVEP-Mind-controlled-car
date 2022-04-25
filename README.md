@@ -10,6 +10,7 @@
 
 ## glitch4_gaming.py and glitch4_gaming_D.py
 
+Before executing this script, it is recommended to turn on the vertical sync.
 - code detail:
     - **blinking indicators** : there are four blinking indicators
         - *upper blinking indicators* : 11hz
