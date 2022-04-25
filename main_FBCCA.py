@@ -85,7 +85,7 @@ while True:
 
             """update the queue every 0.5sec. 
             The queue stores the correlatoins of 3 overlapping windows. 
-            The windows are 2-sec long with 0.5 sec stride."""
+            The windows are 2.5-sec long with 0.5 sec stride."""
             if tmp_second > intervel_time:
                 start_seconds = time.time()
 
